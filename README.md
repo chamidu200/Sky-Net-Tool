@@ -79,9 +79,15 @@ Feel free to fork and contribute! Submit a pull request with your improvements.
 ---
 
 ## 📧 Contact
-For any queries, contact: `your-email@example.com`
+For any queries, contact: `https://www.youtube.com/@chamidunimsara20052`
 
 ---
 
 © 2025 Wi-Fi & Drone Hacking Tools | Ethical Hacking Only
+
+## **⚠️ Legal Warning**  
+🚨 **Unauthorized access to a drone is illegal in most countries.**  
+මෙය **CTF challenges, cybersecurity research, and ethical pentesting** සඳහා පමණක් භාවිතා කරන්න. Unauthorized hacking **FAA, FCC, GDPR laws වලට එරෙහි වේ**.  
+
+
 
