@@ -7,7 +7,7 @@
 ## ⚠️ Disclaimer
 
 <p align="center">
-  <img src="https://example.com/warning-image.jpg" alt="Warning Image" />
+  <img src="https://github.com/chamidu200/Sky-Net-Tool/blob/44a8bc5829f05cef1235f01080c326106d476e81/Capture.PNG" alt="Warning Image" />
 </p>
 **This tool is strictly for educational and ethical penetration testing purposes only.** Unauthorized use of this tool for malicious activities is illegal and punishable by law. Use responsibly and only on networks you own or have explicit permission to test.
 
